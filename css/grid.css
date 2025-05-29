@@ -15,7 +15,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 100px 1fr;
-  gap: 5px;
+  gap: 0 px;
   height: calc(100vh - 80px); /* Adjust if navbar/footer changes */
 }
 
